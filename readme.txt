@@ -55,3 +55,8 @@ ollama
 ``
 python pdf_to_chroma.py
 ``
+6. finaly check the data in DB use this script
+``
+python pdf_to_chroma.py
+
+``
